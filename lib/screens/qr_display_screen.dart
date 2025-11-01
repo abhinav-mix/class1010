@@ -243,7 +243,8 @@ class _QrDisplayScreenState extends State<QrDisplayScreen> {
   Future<void> _uploadPaymentProof(String utr) async {
     try {
       // Create multipart request
-      final url = Uri.parse('http://localhost:3001/upload-payment-proof');
+      // Using your actual Render.com deployment URL
+      final url = Uri.parse('https://class1010.onrender.com/upload-payment-proof');
       final request = http.MultipartRequest('POST', url);
       
       // Add UTR field
