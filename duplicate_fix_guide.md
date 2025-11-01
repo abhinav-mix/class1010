@@ -1,0 +1,900 @@
+# Duplicate Questions Fix Guide
+
+## Summary
+This app contains 287 duplicate questions that should be addressed.
+
+## Detailed List
+
+### biology_questions.dart -> chemistry_questions.dart
+- **Question**: "What is greenhouse effect?"
+  - Original: biology_questions.dart (Question 233)
+  - Duplicate: chemistry_questions.dart (Question 283)
+- **Question**: "What is smog?"
+  - Original: biology_questions.dart (Question 571)
+  - Duplicate: chemistry_questions.dart (Question 287)
+- **Question**: "Which is a fossil fuel?"
+  - Original: biology_questions.dart (Question 312)
+  - Duplicate: chemistry_questions.dart (Question 293)
+- **Question**: "What is the main component of biogas?"
+  - Original: biology_questions.dart (Question 295)
+  - Duplicate: chemistry_questions.dart (Question 300)
+- **Question**: "Which is biodegradable?"
+  - Original: biology_questions.dart (Question 237)
+  - Duplicate: chemistry_questions.dart (Question 309)
+- **Question**: "Which is non-biodegradable?"
+  - Original: biology_questions.dart (Question 238)
+  - Duplicate: chemistry_questions.dart (Question 310)
+
+### chemistry_questions.dart -> chemistry_questions.dart
+- **Question**: "What is combustion?"
+  - Original: chemistry_questions.dart (Question 161)
+  - Duplicate: chemistry_questions.dart (Question 296)
+
+### english_questions.dart -> english_questions.dart
+- **Question**: "What type of noun is "
+  - Original: english_questions.dart (Question 2)
+  - Duplicate: english_questions.dart (Question 3)
+- **Question**: "What type of noun is "
+  - Original: english_questions.dart (Question 2)
+  - Duplicate: english_questions.dart (Question 4)
+- **Question**: "What is the plural of "
+  - Original: english_questions.dart (Question 5)
+  - Duplicate: english_questions.dart (Question 6)
+- **Question**: "What is the plural of "
+  - Original: english_questions.dart (Question 5)
+  - Duplicate: english_questions.dart (Question 7)
+- **Question**: "What is the plural of "
+  - Original: english_questions.dart (Question 5)
+  - Duplicate: english_questions.dart (Question 8)
+- **Question**: "What type of pronoun is "
+  - Original: english_questions.dart (Question 11)
+  - Duplicate: english_questions.dart (Question 12)
+- **Question**: "What type of pronoun is "
+  - Original: english_questions.dart (Question 11)
+  - Duplicate: english_questions.dart (Question 13)
+- **Question**: "What type of pronoun is "
+  - Original: english_questions.dart (Question 11)
+  - Duplicate: english_questions.dart (Question 14)
+- **Question**: "Choose the correct pronoun: "
+  - Original: english_questions.dart (Question 15)
+  - Duplicate: english_questions.dart (Question 16)
+- **Question**: "Choose the correct pronoun: "
+  - Original: english_questions.dart (Question 15)
+  - Duplicate: english_questions.dart (Question 17)
+- **Question**: "Choose the correct pronoun: "
+  - Original: english_questions.dart (Question 15)
+  - Duplicate: english_questions.dart (Question 18)
+- **Question**: "What is the past tense of "
+  - Original: english_questions.dart (Question 21)
+  - Duplicate: english_questions.dart (Question 23)
+- **Question**: "What is the past participle of "
+  - Original: english_questions.dart (Question 22)
+  - Duplicate: english_questions.dart (Question 24)
+- **Question**: "What type of verb is "
+  - Original: english_questions.dart (Question 26)
+  - Duplicate: english_questions.dart (Question 27)
+- **Question**: "Choose the correct form: "
+  - Original: english_questions.dart (Question 28)
+  - Duplicate: english_questions.dart (Question 29)
+- **Question**: "What is the comparative form of "
+  - Original: english_questions.dart (Question 32)
+  - Duplicate: english_questions.dart (Question 34)
+- **Question**: "What type of adjective is "
+  - Original: english_questions.dart (Question 36)
+  - Duplicate: english_questions.dart (Question 37)
+- **Question**: "What type of adjective is "
+  - Original: english_questions.dart (Question 36)
+  - Duplicate: english_questions.dart (Question 38)
+- **Question**: "Choose the correct form: "
+  - Original: english_questions.dart (Question 28)
+  - Duplicate: english_questions.dart (Question 39)
+- **Question**: "What is the superlative form of "
+  - Original: english_questions.dart (Question 33)
+  - Duplicate: english_questions.dart (Question 40)
+- **Question**: "What type of word is "
+  - Original: english_questions.dart (Question 31)
+  - Duplicate: english_questions.dart (Question 41)
+- **Question**: "What type of adverb is "
+  - Original: english_questions.dart (Question 43)
+  - Duplicate: english_questions.dart (Question 44)
+- **Question**: "What type of adverb is "
+  - Original: english_questions.dart (Question 43)
+  - Duplicate: english_questions.dart (Question 45)
+- **Question**: "What type of adverb is "
+  - Original: english_questions.dart (Question 43)
+  - Duplicate: english_questions.dart (Question 46)
+- **Question**: "What is the comparative form of "
+  - Original: english_questions.dart (Question 32)
+  - Duplicate: english_questions.dart (Question 48)
+- **Question**: "What is the superlative form of "
+  - Original: english_questions.dart (Question 33)
+  - Duplicate: english_questions.dart (Question 49)
+- **Question**: "Identify the adverb: "
+  - Original: english_questions.dart (Question 42)
+  - Duplicate: english_questions.dart (Question 50)
+- **Question**: "What type of word is "
+  - Original: english_questions.dart (Question 31)
+  - Duplicate: english_questions.dart (Question 51)
+- **Question**: "Choose the correct preposition: "
+  - Original: english_questions.dart (Question 52)
+  - Duplicate: english_questions.dart (Question 53)
+- **Question**: "Choose the correct preposition: "
+  - Original: english_questions.dart (Question 52)
+  - Duplicate: english_questions.dart (Question 54)
+- **Question**: "Choose the correct preposition: "
+  - Original: english_questions.dart (Question 52)
+  - Duplicate: english_questions.dart (Question 55)
+- **Question**: "Choose the correct preposition: "
+  - Original: english_questions.dart (Question 52)
+  - Duplicate: english_questions.dart (Question 56)
+- **Question**: "Choose the correct preposition: "
+  - Original: english_questions.dart (Question 52)
+  - Duplicate: english_questions.dart (Question 57)
+- **Question**: "Choose the correct preposition: "
+  - Original: english_questions.dart (Question 52)
+  - Duplicate: english_questions.dart (Question 58)
+- **Question**: "Choose the correct preposition: "
+  - Original: english_questions.dart (Question 52)
+  - Duplicate: english_questions.dart (Question 59)
+- **Question**: "Choose the correct preposition: "
+  - Original: english_questions.dart (Question 52)
+  - Duplicate: english_questions.dart (Question 60)
+- **Question**: "What type of word is "
+  - Original: english_questions.dart (Question 31)
+  - Duplicate: english_questions.dart (Question 61)
+- **Question**: "What type of conjunction is "
+  - Original: english_questions.dart (Question 62)
+  - Duplicate: english_questions.dart (Question 63)
+- **Question**: "What type of conjunction is "
+  - Original: english_questions.dart (Question 62)
+  - Duplicate: english_questions.dart (Question 64)
+- **Question**: "Choose the correct conjunction: "
+  - Original: english_questions.dart (Question 65)
+  - Duplicate: english_questions.dart (Question 66)
+- **Question**: "Choose the correct conjunction: "
+  - Original: english_questions.dart (Question 65)
+  - Duplicate: english_questions.dart (Question 67)
+- **Question**: "Choose the correct conjunction: "
+  - Original: english_questions.dart (Question 65)
+  - Duplicate: english_questions.dart (Question 69)
+- **Question**: "Choose the correct conjunction: "
+  - Original: english_questions.dart (Question 65)
+  - Duplicate: english_questions.dart (Question 70)
+- **Question**: "What type of word is "
+  - Original: english_questions.dart (Question 31)
+  - Duplicate: english_questions.dart (Question 71)
+- **Question**: "Choose the correct interjection: "
+  - Original: english_questions.dart (Question 79)
+  - Duplicate: english_questions.dart (Question 80)
+- **Question**: "Identify the tense: "
+  - Original: english_questions.dart (Question 81)
+  - Duplicate: english_questions.dart (Question 82)
+- **Question**: "Identify the tense: "
+  - Original: english_questions.dart (Question 81)
+  - Duplicate: english_questions.dart (Question 83)
+- **Question**: "Identify the tense: "
+  - Original: english_questions.dart (Question 81)
+  - Duplicate: english_questions.dart (Question 84)
+- **Question**: "Choose the correct form: "
+  - Original: english_questions.dart (Question 28)
+  - Duplicate: english_questions.dart (Question 85)
+- **Question**: "Choose the correct form: "
+  - Original: english_questions.dart (Question 28)
+  - Duplicate: english_questions.dart (Question 86)
+- **Question**: "Choose the correct form: "
+  - Original: english_questions.dart (Question 28)
+  - Duplicate: english_questions.dart (Question 87)
+- **Question**: "Choose the correct form: "
+  - Original: english_questions.dart (Question 28)
+  - Duplicate: english_questions.dart (Question 88)
+- **Question**: "Identify the tense: "
+  - Original: english_questions.dart (Question 81)
+  - Duplicate: english_questions.dart (Question 91)
+- **Question**: "Identify the tense: "
+  - Original: english_questions.dart (Question 81)
+  - Duplicate: english_questions.dart (Question 92)
+- **Question**: "Identify the tense: "
+  - Original: english_questions.dart (Question 81)
+  - Duplicate: english_questions.dart (Question 93)
+- **Question**: "Identify the tense: "
+  - Original: english_questions.dart (Question 81)
+  - Duplicate: english_questions.dart (Question 94)
+- **Question**: "Choose the correct form: "
+  - Original: english_questions.dart (Question 28)
+  - Duplicate: english_questions.dart (Question 95)
+- **Question**: "Choose the correct form: "
+  - Original: english_questions.dart (Question 28)
+  - Duplicate: english_questions.dart (Question 96)
+- **Question**: "Choose the correct form: "
+  - Original: english_questions.dart (Question 28)
+  - Duplicate: english_questions.dart (Question 97)
+- **Question**: "Choose the correct form: "
+  - Original: english_questions.dart (Question 28)
+  - Duplicate: english_questions.dart (Question 98)
+- **Question**: "Identify the tense: "
+  - Original: english_questions.dart (Question 81)
+  - Duplicate: english_questions.dart (Question 101)
+- **Question**: "Identify the tense: "
+  - Original: english_questions.dart (Question 81)
+  - Duplicate: english_questions.dart (Question 102)
+- **Question**: "Identify the tense: "
+  - Original: english_questions.dart (Question 81)
+  - Duplicate: english_questions.dart (Question 103)
+- **Question**: "Identify the tense: "
+  - Original: english_questions.dart (Question 81)
+  - Duplicate: english_questions.dart (Question 104)
+- **Question**: "Choose the correct form: "
+  - Original: english_questions.dart (Question 28)
+  - Duplicate: english_questions.dart (Question 105)
+- **Question**: "Choose the correct form: "
+  - Original: english_questions.dart (Question 28)
+  - Duplicate: english_questions.dart (Question 106)
+- **Question**: "Choose the correct form: "
+  - Original: english_questions.dart (Question 28)
+  - Duplicate: english_questions.dart (Question 107)
+- **Question**: "Choose the correct form: "
+  - Original: english_questions.dart (Question 28)
+  - Duplicate: english_questions.dart (Question 108)
+- **Question**: "Identify the voice: "
+  - Original: english_questions.dart (Question 111)
+  - Duplicate: english_questions.dart (Question 112)
+- **Question**: "Change to passive: "
+  - Original: english_questions.dart (Question 113)
+  - Duplicate: english_questions.dart (Question 115)
+- **Question**: "Change to passive: "
+  - Original: english_questions.dart (Question 113)
+  - Duplicate: english_questions.dart (Question 116)
+- **Question**: "Change to passive: "
+  - Original: english_questions.dart (Question 113)
+  - Duplicate: english_questions.dart (Question 117)
+- **Question**: "Change to active: "
+  - Original: english_questions.dart (Question 114)
+  - Duplicate: english_questions.dart (Question 118)
+- **Question**: "Change to indirect: He said, "
+  - Original: english_questions.dart (Question 121)
+  - Duplicate: english_questions.dart (Question 126)
+- **Question**: "Change to indirect: She said, "
+  - Original: english_questions.dart (Question 122)
+  - Duplicate: english_questions.dart (Question 127)
+- **Question**: "In indirect speech, "
+  - Original: english_questions.dart (Question 128)
+  - Duplicate: english_questions.dart (Question 129)
+- **Question**: "In indirect speech, "
+  - Original: english_questions.dart (Question 128)
+  - Duplicate: english_questions.dart (Question 130)
+- **Question**: "What type of clause is "
+  - Original: english_questions.dart (Question 132)
+  - Duplicate: english_questions.dart (Question 135)
+- **Question**: "What type of clause is "
+  - Original: english_questions.dart (Question 132)
+  - Duplicate: english_questions.dart (Question 136)
+- **Question**: "What type of clause is "
+  - Original: english_questions.dart (Question 132)
+  - Duplicate: english_questions.dart (Question 137)
+- **Question**: "What type of sentence is "
+  - Original: english_questions.dart (Question 141)
+  - Duplicate: english_questions.dart (Question 142)
+- **Question**: "What type of sentence is "
+  - Original: english_questions.dart (Question 141)
+  - Duplicate: english_questions.dart (Question 143)
+- **Question**: "What type of sentence is "
+  - Original: english_questions.dart (Question 141)
+  - Duplicate: english_questions.dart (Question 144)
+- **Question**: "Identify the sentence type: "
+  - Original: english_questions.dart (Question 148)
+  - Duplicate: english_questions.dart (Question 149)
+- **Question**: "Identify the sentence type: "
+  - Original: english_questions.dart (Question 148)
+  - Duplicate: english_questions.dart (Question 150)
+- **Question**: "Choose the correctly punctuated sentence:"
+  - Original: english_questions.dart (Question 158)
+  - Duplicate: english_questions.dart (Question 159)
+- **Question**: "Which is the correct spelling?"
+  - Original: english_questions.dart (Question 161)
+  - Duplicate: english_questions.dart (Question 162)
+- **Question**: "Which is the correct spelling?"
+  - Original: english_questions.dart (Question 161)
+  - Duplicate: english_questions.dart (Question 163)
+- **Question**: "Which is the correct spelling?"
+  - Original: english_questions.dart (Question 161)
+  - Duplicate: english_questions.dart (Question 164)
+- **Question**: "Which is the correct spelling?"
+  - Original: english_questions.dart (Question 161)
+  - Duplicate: english_questions.dart (Question 165)
+- **Question**: "Which is the correct spelling?"
+  - Original: english_questions.dart (Question 161)
+  - Duplicate: english_questions.dart (Question 166)
+- **Question**: "Which is the correct spelling?"
+  - Original: english_questions.dart (Question 161)
+  - Duplicate: english_questions.dart (Question 167)
+- **Question**: "Which is the correct spelling?"
+  - Original: english_questions.dart (Question 161)
+  - Duplicate: english_questions.dart (Question 168)
+- **Question**: "Which is the correct spelling?"
+  - Original: english_questions.dart (Question 161)
+  - Duplicate: english_questions.dart (Question 169)
+- **Question**: "Which is the correct spelling?"
+  - Original: english_questions.dart (Question 161)
+  - Duplicate: english_questions.dart (Question 170)
+- **Question**: "What is a synonym for "
+  - Original: english_questions.dart (Question 171)
+  - Duplicate: english_questions.dart (Question 172)
+- **Question**: "What is a synonym for "
+  - Original: english_questions.dart (Question 171)
+  - Duplicate: english_questions.dart (Question 173)
+- **Question**: "What is a synonym for "
+  - Original: english_questions.dart (Question 171)
+  - Duplicate: english_questions.dart (Question 174)
+- **Question**: "What is a synonym for "
+  - Original: english_questions.dart (Question 171)
+  - Duplicate: english_questions.dart (Question 175)
+- **Question**: "What is a synonym for "
+  - Original: english_questions.dart (Question 171)
+  - Duplicate: english_questions.dart (Question 176)
+- **Question**: "What is a synonym for "
+  - Original: english_questions.dart (Question 171)
+  - Duplicate: english_questions.dart (Question 177)
+- **Question**: "What is a synonym for "
+  - Original: english_questions.dart (Question 171)
+  - Duplicate: english_questions.dart (Question 178)
+- **Question**: "What is a synonym for "
+  - Original: english_questions.dart (Question 171)
+  - Duplicate: english_questions.dart (Question 179)
+- **Question**: "What is a synonym for "
+  - Original: english_questions.dart (Question 171)
+  - Duplicate: english_questions.dart (Question 180)
+- **Question**: "What is an antonym for "
+  - Original: english_questions.dart (Question 181)
+  - Duplicate: english_questions.dart (Question 182)
+- **Question**: "What is an antonym for "
+  - Original: english_questions.dart (Question 181)
+  - Duplicate: english_questions.dart (Question 183)
+- **Question**: "What is an antonym for "
+  - Original: english_questions.dart (Question 181)
+  - Duplicate: english_questions.dart (Question 184)
+- **Question**: "What is an antonym for "
+  - Original: english_questions.dart (Question 181)
+  - Duplicate: english_questions.dart (Question 185)
+- **Question**: "What is an antonym for "
+  - Original: english_questions.dart (Question 181)
+  - Duplicate: english_questions.dart (Question 186)
+- **Question**: "What is an antonym for "
+  - Original: english_questions.dart (Question 181)
+  - Duplicate: english_questions.dart (Question 187)
+- **Question**: "What is an antonym for "
+  - Original: english_questions.dart (Question 181)
+  - Duplicate: english_questions.dart (Question 188)
+- **Question**: "What is an antonym for "
+  - Original: english_questions.dart (Question 181)
+  - Duplicate: english_questions.dart (Question 189)
+- **Question**: "What is an antonym for "
+  - Original: english_questions.dart (Question 181)
+  - Duplicate: english_questions.dart (Question 190)
+- **Question**: "Choose the correct article: "
+  - Original: english_questions.dart (Question 244)
+  - Duplicate: english_questions.dart (Question 245)
+- **Question**: "Choose the correct article: "
+  - Original: english_questions.dart (Question 244)
+  - Duplicate: english_questions.dart (Question 246)
+- **Question**: "Which pair are homophones?"
+  - Original: english_questions.dart (Question 248)
+  - Duplicate: english_questions.dart (Question 249)
+
+### biology_questions.dart -> english_questions.dart
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 191)
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 192)
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 193)
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 194)
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 195)
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 196)
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 197)
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 201)
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 202)
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 203)
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 204)
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 205)
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 206)
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 207)
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 208)
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 209)
+- **Question**: "Who wrote "
+  - Original: biology_questions.dart (Question 212)
+  - Duplicate: english_questions.dart (Question 210)
+
+### biology_questions.dart -> geography_questions.dart
+- **Question**: "What are renewable resources?"
+  - Original: biology_questions.dart (Question 291)
+  - Duplicate: geography_questions.dart (Question 4)
+- **Question**: "What are non-renewable resources?"
+  - Original: biology_questions.dart (Question 292)
+  - Duplicate: geography_questions.dart (Question 5)
+- **Question**: "Which is a renewable resource?"
+  - Original: biology_questions.dart (Question 293)
+  - Duplicate: geography_questions.dart (Question 6)
+- **Question**: "Which is a non-renewable resource?"
+  - Original: biology_questions.dart (Question 294)
+  - Duplicate: geography_questions.dart (Question 7)
+- **Question**: "What is sustainable development?"
+  - Original: biology_questions.dart (Question 576)
+  - Duplicate: geography_questions.dart (Question 9)
+- **Question**: "What percentage of Earth\"
+  - Original: biology_questions.dart (Question 301)
+  - Duplicate: geography_questions.dart (Question 11)
+- **Question**: "What percentage of Earth\"
+  - Original: biology_questions.dart (Question 301)
+  - Duplicate: geography_questions.dart (Question 31)
+- **Question**: "What is rainwater harvesting?"
+  - Original: biology_questions.dart (Question 302)
+  - Duplicate: geography_questions.dart (Question 34)
+- **Question**: "What is biodiversity?"
+  - Original: biology_questions.dart (Question 461)
+  - Duplicate: geography_questions.dart (Question 42)
+- **Question**: "What is the Red Data Book?"
+  - Original: biology_questions.dart (Question 470)
+  - Duplicate: geography_questions.dart (Question 159)
+
+### chemistry_questions.dart -> geography_questions.dart
+- **Question**: "What is a mineral?"
+  - Original: chemistry_questions.dart (Question 142)
+  - Duplicate: geography_questions.dart (Question 71)
+
+### geography_questions.dart -> geography_questions.dart
+- **Question**: "Which is the longest river in India?"
+  - Original: geography_questions.dart (Question 38)
+  - Duplicate: geography_questions.dart (Question 124)
+
+### hindi_questions.dart -> hindi_questions.dart
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 4)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 5)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 6)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 7)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 18)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 19)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 20)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 55)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 56)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 57)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 58)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 59)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 60)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 63)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 64)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 65)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 66)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 67)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 68)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 69)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 70)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 89)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 90)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 96)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 97)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 98)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 99)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 100)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 102)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 103)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 104)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 105)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 106)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 107)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 108)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 109)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 110)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 113)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 114)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 115)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 116)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 117)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 118)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 119)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 120)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 121)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 122)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 123)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 124)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 125)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 126)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 127)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 128)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 129)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 130)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 131)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 132)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 133)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 134)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 135)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 136)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 137)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 138)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 139)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 140)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 141)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 142)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 143)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 144)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 145)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 146)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 147)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 148)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 149)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 150)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 151)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 152)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 153)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 154)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 155)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 156)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 157)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 158)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 159)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 160)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 161)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 162)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 163)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 164)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 165)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 166)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 167)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 168)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 169)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 170)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 243)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 244)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 245)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 246)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 247)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 253)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 254)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 255)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 256)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 263)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 264)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 265)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 275)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 276)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 277)
+- **Question**: ""
+  - Original: hindi_questions.dart (Question 3)
+  - Duplicate: hindi_questions.dart (Question 278)
+
+### history_questions.dart -> history_questions.dart
+- **Question**: "What was Tipu\"
+  - Original: history_questions.dart (Question 228)
+  - Duplicate: history_questions.dart (Question 230)
+
+### physics_questions.dart -> physics_questions.dart
+- **Question**: "What is Newton\"
+  - Original: physics_questions.dart (Question 11)
+  - Duplicate: physics_questions.dart (Question 13)
+- **Question**: "What is Newton\"
+  - Original: physics_questions.dart (Question 11)
+  - Duplicate: physics_questions.dart (Question 15)
+- **Question**: "What is Fleming\"
+  - Original: physics_questions.dart (Question 117)
+  - Duplicate: physics_questions.dart (Question 123)
+
+### biology_questions.dart -> physics_questions.dart
+- **Question**: "What is myopia?"
+  - Original: biology_questions.dart (Question 376)
+  - Duplicate: physics_questions.dart (Question 87)
+- **Question**: "What is hypermetropia?"
+  - Original: biology_questions.dart (Question 377)
+  - Duplicate: physics_questions.dart (Question 88)
+- **Question**: "Which lens is used to correct myopia?"
+  - Original: biology_questions.dart (Question 378)
+  - Duplicate: physics_questions.dart (Question 89)
+- **Question**: "Which lens is used to correct hypermetropia?"
+  - Original: biology_questions.dart (Question 379)
+  - Duplicate: physics_questions.dart (Question 90)
+- **Question**: "What is geothermal energy?"
+  - Original: biology_questions.dart (Question 315)
+  - Duplicate: physics_questions.dart (Question 140)
+- **Question**: "What is biomass?"
+  - Original: biology_questions.dart (Question 318)
+  - Duplicate: physics_questions.dart (Question 304)
+- **Question**: "What is the main component of biogas?"
+  - Original: biology_questions.dart (Question 295)
+  - Duplicate: physics_questions.dart (Question 306)
+- **Question**: "What is tidal energy?"
+  - Original: biology_questions.dart (Question 316)
+  - Duplicate: physics_questions.dart (Question 307)
+
+### chemistry_questions.dart -> physics_questions.dart
+- **Question**: "What is an atom?"
+  - Original: chemistry_questions.dart (Question 262)
+  - Duplicate: physics_questions.dart (Question 201)
+- **Question**: "What is atomic number?"
+  - Original: chemistry_questions.dart (Question 57)
+  - Duplicate: physics_questions.dart (Question 204)
+- **Question**: "What is mass number?"
+  - Original: chemistry_questions.dart (Question 58)
+  - Duplicate: physics_questions.dart (Question 205)
+- **Question**: "What is Tyndall effect?"
+  - Original: chemistry_questions.dart (Question 319)
+  - Duplicate: physics_questions.dart (Question 281)
+- **Question**: "What is biogas?"
+  - Original: chemistry_questions.dart (Question 299)
+  - Duplicate: physics_questions.dart (Question 305)
+
+### social_science_questions.dart -> social_science_questions.dart
+- **Question**: "Which country is an example of "
+  - Original: social_science_questions.dart (Question 1)
+  - Duplicate: social_science_questions.dart (Question 2)
+- **Question**: "India is a:"
+  - Original: social_science_questions.dart (Question 11)
+  - Duplicate: social_science_questions.dart (Question 37)
+- **Question**: "India has ___% of world\"
+  - Original: social_science_questions.dart (Question 142)
+  - Duplicate: social_science_questions.dart (Question 143)
+- **Question**: "India is the largest producer of:"
+  - Original: social_science_questions.dart (Question 151)
+  - Duplicate: social_science_questions.dart (Question 164)
+
+### geography_questions.dart -> social_science_questions.dart
+- **Question**: "How many states are there in India?"
+  - Original: geography_questions.dart (Question 189)
+  - Duplicate: social_science_questions.dart (Question 20)
+
+### science_questions.dart -> social_science_questions.dart
+- **Question**: "Sustainable development means:"
+  - Original: science_questions.dart (Question 339)
+  - Duplicate: social_science_questions.dart (Question 127)
+
+### history_questions.dart -> social_science_questions.dart
+- **Question**: "Who was the first Prime Minister of India?"
+  - Original: history_questions.dart (Question 146)
+  - Duplicate: social_science_questions.dart (Question 191)
+
