@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/upload-payment-proof.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/upload-payment-proof",
+      "dest": "api/upload-payment-proof.js"
+    }
+  ]
+}
